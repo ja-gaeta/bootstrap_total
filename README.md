@@ -4,8 +4,8 @@ Este repositório será usado para armazenar os arquivos com o código-fonte usa
 
 ## Links:
 
-Home Page: http://pontogpp.com.br/
-YouTube: https://www.youtube.com/channel/UCSXZ98kaD6xA05IeK__FUkQ
+* Home Page: http://pontogpp.com.br/
+* YouTube: https://www.youtube.com/channel/UCSXZ98kaD6xA05IeK__FUkQ
 
 ## Descrição dos Vídeos
 
