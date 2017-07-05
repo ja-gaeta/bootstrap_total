@@ -1,6 +1,6 @@
 # Código-fonte da série "Bootstrap Total"
 
-Este repositório será usado para armazenar os arquivos com o código-fonte usado na série "Bootstrap Total" do meu canal no YouTube. Cada paste contém o código do vídeo correspondente.
+Este repositório será usado para armazenar os arquivos com o código-fonte usado na série "Bootstrap Total" do meu canal no YouTube. Cada pasta contém o código do vídeo correspondente.
 
 ## Links:
 
@@ -9,11 +9,11 @@ Este repositório será usado para armazenar os arquivos com o código-fonte usa
 
 ## Descrição dos Vídeos
 
-### Vídeo #1 -- Instalação e Configuração Básica
+### Vídeo #1 - Instalação e Configuração Básica
 
 Instalação do Bootstrap 3 e a configuração básica do _template_ de uma página HTML-5 para usá-lo.
 
-### Vídeo #2 -- O Poder das Grids
+### Vídeo #2 - O Poder das Grids
 
 Introdução ao _Grid System_ (Sistema de Grades) do Bootstrap.
 
