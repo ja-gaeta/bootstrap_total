@@ -17,3 +17,6 @@ Instalação do Bootstrap 3 e a configuração básica do _template_ de uma pág
 
 Introdução ao _Grid System_ (Sistema de Grades) do Bootstrap.
 
+### Vídeo #3 - Barra de Navegação (navbar)
+
+Elaboração de uma barra de navegação usando o componente **navbar** do Bootstrap, com a funcionalidade de menus "drop-down" e responsividade otimizada para dispositivos móveis. Os **navbars** são meta-componentes responsivos que servem como cabeçalho de navegação pelo **site** ou **aplicativo**. Eles iniciam ocultos e podem ser comutados para o estado visível clicando num botão, nos dispositivos móveis, mudando para uma apresentação horizontal a medida em que aumenta o tamanho da "_viewport_".
