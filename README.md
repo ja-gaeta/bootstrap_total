@@ -1,6 +1,6 @@
 # Código-fonte da série "Bootstrap Total"
 
-Este repositório será usado para armazenar os arquivos com o código-fonte usado na série "Bootstrap Total" do meu canal no YouTube. Na pasta <kbd>html</kbd> estão os arquivos `html` de cada vídeo. Para exibí-los no navegador, arraste o arquivo para o diretório-raiz, para que os arquivos de estilo, javascript, imagens e fontes sejam carregados corretamente.
+Este repositório será usado para armazenar os arquivos com o código-fonte usado na série "Bootstrap Total" do meu canal no YouTube. Na pasta <kbd>html</kbd> estão os códigos `html` usados em cada vídeo. Para exibí-los no navegador, arraste o arquivo para o diretório-raiz, para que os arquivos de estilo, javascript, imagens e fontes sejam carregados corretamente.
 
 ## Links:
 
