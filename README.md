@@ -22,3 +22,37 @@ Introdução ao _Grid System_ (Sistema de Grades) do Bootstrap.
 ### Vídeo #3 - Barra de Navegação (navbar)
 
 Elaboração de uma barra de navegação usando o componente **navbar** do Bootstrap, com a funcionalidade de menus "drop-down" e responsividade otimizada para dispositivos móveis. Os **navbars** são meta-componentes responsivos que servem como cabeçalho de navegação pelo **site** ou **aplicativo**. Eles iniciam ocultos e podem ser comutados para o estado visível clicando num botão, nos dispositivos móveis, mudando para uma apresentação horizontal a medida em que aumenta o tamanho da "_viewport_".
+
+### Vídeo #4 - Workflow com Vagrant e Gulp
+
+Vamos aproveitar o ambiente virtual para desenvolvimento que instalamos com o Vagrant e, usando o Gulp JS, instalado com o NPM, vamos preparar nosso _workflow_ para trabalhar com o Bootstrap.
+
+Depois de clonar/copiar os arquivos deste repositório no seu computador, entre no diretório `bootstrap_total` e digite o comando:
+
+```bash
+$ npm install
+```
+
+Você encontrará instruções detalhadas para instalação e configuração do Vagrant com a Scotch Box, na [série específica sobre ele](https://www.youtube.com/playlist?list=PLZ4xIRSKcCtFLcGzKM7hIPmkX4DvLEuMS).
+
+### Vídeo 05 - Instalação do Bower, Bootstrap-Sass e Font-Awesome
+
+Neste vídeo damos uma incrementada no nosso _workflow_ com a instalação de outro gerenciador de pacotes, o Bower e com ele instalamos o Bootstrap-Sass e o Font-Awesome para facilitar a personalização do _frontend_ usando o Bootstrap.
+
+Use o `npm` para instalar o Bower:
+
+```bash
+$ sudo npm install -g bower
+```
+
+Use o Bower para instalar o pacote **bootstrap-sass**:
+
+```bash
+$ bower install --save bootstrap-sass
+```
+
+Idem, para instalar o **font awesome**:
+
+```bash
+bower install --save fontawesome
+```
