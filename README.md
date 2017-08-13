@@ -54,5 +54,23 @@ $ bower install --save bootstrap-sass
 Idem, para instalar o **font awesome**:
 
 ```bash
-bower install --save fontawesome
+$ bower install --save fontawesome
+```
+
+### Vídeo 06 - Upgrade para a versão 4.0 Beta
+
+Poucos dias atrás, foi lançada a tão esperada versão 4.0 Beta do Bootstrap. Isso significa que o código agora está suficientemente estável, pois eventuais alterações serão basicamente para correções e eliminação de bugs, garantindo plena compatibilidade.
+
+No decorrer desta série, vamos abordar as mudanças ocorridas, que você pode conferir neste [link](https://blog.getbootstrap.com/2017/08/10/bootstrap-4-beta/) (em inglês).
+
+Remova a pasta da versão anterior do Bootstrap e do JQuery e instale as novas com o Bower:
+
+```bash
+$ bower install bootstrap#v4.0.0-beta
+```
+
+Em seguida, altere o arquivo `app.scss` para apontando para o novo caminho depois da instalação:
+
+```scss
+@import "bower_components/bootstrap/scss/bootstrap";
 ```
