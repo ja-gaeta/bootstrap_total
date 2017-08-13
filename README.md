@@ -69,7 +69,7 @@ Remova a pasta da versão anterior do Bootstrap e do JQuery e instale as novas c
 $ bower install bootstrap#v4.0.0-beta
 ```
 
-Em seguida, altere o arquivo `app.scss` para apontando para o novo caminho depois da instalação:
+Em seguida, altere o arquivo `app.scss` para que aponte o novo caminho, conforme abaixo:
 
 ```scss
 @import "bower_components/bootstrap/scss/bootstrap";
