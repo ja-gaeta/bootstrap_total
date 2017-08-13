@@ -37,7 +37,7 @@ Você encontrará instruções detalhadas para instalação e configuração do 
 
 ### Vídeo 05 - Instalação do Bower, Bootstrap-Sass e Font-Awesome
 
-Neste vídeo damos uma incrementada no nosso _workflow_ com a instalação de outro gerenciador de pacotes, o Bower e com ele instalamos o Bootstrap-Sass e o Font-Awesome para facilitar a personalização do _frontend_ usando o Bootstrap.
+Neste vídeo damos uma incrementada no nosso _workflow_ com a instalação de outro gerenciador de pacotes, o Bower e com ele instalamos o Bootstrap-Sass e o Font-Awesome para facilitar a personalização do _front-end_ usando o Bootstrap.
 
 Use o `npm` para instalar o Bower:
 
