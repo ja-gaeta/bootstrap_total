@@ -83,3 +83,7 @@ O **Reboot** é o novo normalizador do Bootstrap 4, substituindo o **Normalize**
 * Resetar a **margin-top**. As margens verticais podem colapsar, gerando resultados imprevisíveis. Mais importante, todavia, é que uma direção única de margem constitui um modelo mental mais simples.
 * Para facilitar a escalabilidade nos diversos tamanhos de dispositivos, os elementos de bloco devem usar **rem** para as margens.
 * Manter as declarações das propriedades relativas a fontes no mínimo, usando herança sempre que possível.
+
+### Vídeo 08 - Containers
+
+O **Container** é o elemento básico do Bootstrap quando pretendemos usar seu poderoso sistema de grades (_Grid System_). Neste vídeo este elemento é examinado em detalhes.
