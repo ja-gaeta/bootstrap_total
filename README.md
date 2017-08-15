@@ -74,3 +74,12 @@ Em seguida, altere o arquivo `app.scss` para que aponte o novo caminho, conforme
 ```scss
 @import "bower_components/bootstrap/scss/bootstrap";
 ```
+
+### Vídeo 07 - Normalizando com Reboot
+
+O **Reboot** é o novo normalizador do Bootstrap 4, substituindo o **Normalize** usado na versão anterior. Ele garante um conjunto básico de elementos HTML consistentes para a criação de estilos usando classes. Segundo a documentação, seguiram-se as seguintes diretrizes:
+
+* Atualizar alguns valores padrão dos navegadores para usar unidades **rem** ao invés de **em** no espaçamento escalável de componentes;
+* Resetar a **margin-top**. As margens verticais podem colapsar, gerando resultados imprevisíveis. Mais importante, todavia, é que uma direção única de margem constitui um modelo mental mais simples.
+* Para facilitar a escalabilidade nos diversos tamanhos de dispositivos, os elementos de bloco devem usar **rem** para as margens.
+* Manter as declarações das propriedades relativas a fontes no mínimo, usando herança sempre que possível.
