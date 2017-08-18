@@ -87,3 +87,7 @@ O **Reboot** é o novo normalizador do Bootstrap 4, substituindo o **Normalize**
 ### Vídeo 08 - Containers
 
 O **Container** é o elemento básico do Bootstrap quando pretendemos usar seu poderoso sistema de grades (_Grid System_). Neste vídeo este elemento é examinado em detalhes.
+
+### Vídeo 09 - Grid System - Novidades do Bootstrap 4
+
+O sistema de grades (_Grid System_) do Bootstrap sempre foi seu ponto forte e agora ficou ainda mais poderoso com o uso do sistema **Flexbox**. Vamos ver as novidades introduzidas nesta versão.
