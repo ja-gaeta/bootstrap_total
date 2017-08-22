@@ -91,3 +91,7 @@ O **Container** é o elemento básico do Bootstrap quando pretendemos usar seu p
 ### Vídeo 09 - Grid System - Novidades do Bootstrap 4
 
 O sistema de grades (_Grid System_) do Bootstrap sempre foi seu ponto forte e agora ficou ainda mais poderoso com o uso do sistema **Flexbox**. Vamos ver as novidades introduzidas nesta versão.
+
+### Vídeo 10 - Flexbox - Flexibilidadade Total
+
+A adoção do sistema de grades **Flexbox** trouxe para o Bootstrap toda a flexibilidade para posicionamento de linha e colunas no DOM, tudo de uma maneira bem intuitiva, muito fácil de usar. Neste vídeo exploramos um pouco mais toda essa potencialidade e, de passagem, introduzimos também algumas novas classes do Bootstrap 4.
