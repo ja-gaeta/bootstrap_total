@@ -95,3 +95,7 @@ O sistema de grades (_Grid System_) do Bootstrap sempre foi seu ponto forte e ag
 ### Vídeo 10 - Flexbox - Flexibilidadade Total
 
 A adoção do sistema de grades **Flexbox** trouxe para o Bootstrap toda a flexibilidade para posicionamento de linhas e colunas no DOM, tudo de uma maneira bem intuitiva, muito fácil de usar. Neste vídeo exploramos um pouco mais toda essa potencialidade e, de passagem, introduzimos também algumas novas classes do Bootstrap 4.
+
+### Vídeo 11 - Navbar no Bootstrap 4
+
+O sistema de navegação do Bootstrap ficou ainda mais flexível e funcional na versão 4. Confira neste vídeo.
