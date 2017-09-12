@@ -99,3 +99,9 @@ A adoção do sistema de grades **Flexbox** trouxe para o Bootstrap toda a flexi
 ### Vídeo 11 - Navbar no Bootstrap 4
 
 O sistema de navegação do Bootstrap ficou ainda mais flexível e funcional na versão 4. Confira neste vídeo.
+
+### Vídeo 12 - Personalizando o Bootstrap
+
+O Bootstrap permite uma ampla personalização de seus componentes, para conferir ao seu Site uma distinção especial. Sua criatividade é o limite!
+
+O Sass aumenta signiticativamente a produtividade na criação de folhas de estilo CSS e sua manutenção. Depois de usá-lo, você não conseguirá mais ficar sem ele.

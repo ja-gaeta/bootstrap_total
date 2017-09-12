@@ -1,0 +1,22 @@
+/*
+  _custom.scss
+*/
+
+
+$primary-color: #ff6600;
+$bg-customColor: #333;
+$font-color: #fff;
+
+body {
+    background: $bg-customColor;
+    color: $font-color;
+}
+
+.navbar {
+    border-bottom: $primary-color 3px solid;
+    opacity: 0.9;
+}
+
+.nav-link {
+    font-size: 1.3rem;
+}

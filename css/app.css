@@ -7723,3 +7723,20 @@ a.text-dark:focus, a.text-dark:hover {
 .invisible {
   visibility: hidden !important;
 }
+
+/*
+  _custom.scss
+*/
+body {
+  background: #333;
+  color: #fff;
+}
+
+.navbar {
+  border-bottom: #ff6600 3px solid;
+  opacity: 0.9;
+}
+
+.nav-link {
+  font-size: 1.3rem;
+}
