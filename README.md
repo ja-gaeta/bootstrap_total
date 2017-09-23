@@ -105,3 +105,7 @@ O sistema de navegação do Bootstrap ficou ainda mais flexível e funcional na 
 O Bootstrap permite uma ampla personalização de seus componentes, para conferir ao seu Site uma distinção especial. Sua criatividade é o limite!
 
 O Sass aumenta signiticativamente a produtividade na criação de folhas de estilo CSS e sua manutenção. Depois de usá-lo, você não conseguirá mais ficar sem ele.
+
+### Vídeo 13 - Showcase com Flex, Font-Awesome e Cards
+
+Neste vídeo desenvolvemos um _Showcase_ usando o **Flexbox**, os ícones da biblioteca **Font-Awesome** e **Cards**, um novo e versátil componente do Bootstrap 4.

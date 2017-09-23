@@ -7740,3 +7740,15 @@ body {
 .nav-link {
   font-size: 1.3rem;
 }
+
+.showcase {
+  background: url("../img/showcase.jpeg") no-repeat;
+  min-height: 800px;
+  background-size: cover;
+  background-attachment: fixed;
+  padding-top: 130px;
+}
+
+.display-4 {
+  color: #ff8533;
+}
