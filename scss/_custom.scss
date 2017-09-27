@@ -6,6 +6,7 @@
 $primary-color: #ff6600;
 $bg-customColor: #333;
 $font-color: #fff;
+$icon-size: 1.8rem;
 
 body {
     background: $bg-customColor;
@@ -27,8 +28,17 @@ body {
     background-size: cover;
     background-attachment: fixed;
     padding-top: 130px;
-}
-
-.display-4 {
-    color: lighten($primary-color, 10%);
+    .fa {
+        font-size: $icon-size;
+        color: $primary-color;
+        padding: 4px;
+        background: #fff;
+        border-radius: 5px;
+    }
+    .card-form {
+        opacity: 0.8;
+    }
+    .display-4 {
+        color: lighten($primary-color, 10%);
+    }
 }

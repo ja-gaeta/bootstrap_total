@@ -7749,6 +7749,18 @@ body {
   padding-top: 130px;
 }
 
-.display-4 {
+.showcase .fa {
+  font-size: 1.8rem;
+  color: #ff6600;
+  padding: 4px;
+  background: #fff;
+  border-radius: 5px;
+}
+
+.showcase .card-form {
+  opacity: 0.8;
+}
+
+.showcase .display-4 {
   color: #ff8533;
 }

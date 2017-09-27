@@ -109,3 +109,7 @@ O Sass aumenta signiticativamente a produtividade na criação de folhas de esti
 ### Vídeo 13 - Showcase com Flex, Font-Awesome e Cards
 
 Neste vídeo desenvolvemos um _Showcase_ usando o **Flexbox**, os ícones da biblioteca **Font-Awesome** e **Cards**, um novo e versátil componente do Bootstrap 4.
+
+### Vídeo 14 - Retoques no CSS personalizado da Showcase
+
+Alguns retoques no CSS deixam nossa Showcase, preparada no vídeo anterior, com um aspecto bem mais profissional. Um resultado fantástico, considerando a economia de tempo no desenvolvimento.
