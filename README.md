@@ -113,3 +113,7 @@ Neste vídeo desenvolvemos um _Showcase_ usando o **Flexbox**, os ícones da bib
 ### Vídeo 14 - Retoques no CSS personalizado da Showcase
 
 Alguns retoques no CSS deixam nossa Showcase, preparada no vídeo anterior, com um aspecto bem mais profissional. Um resultado fantástico, considerando a economia de tempo no desenvolvimento.
+
+### Vídeo 15 - Menus Dropdown
+
+É muito fácil montar menus _dropdown_ elegantemente animados na **Navbar**, usando apenas as classes do Bootstrap, sem precisar escrever nem uma linha sequer de JavaScript.
