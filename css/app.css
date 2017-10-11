@@ -7743,10 +7743,10 @@ body {
 
 .showcase {
   background: url("../img/showcase.jpeg") no-repeat;
-  min-height: 800px;
+  height: 100vh;
   background-size: cover;
   background-attachment: fixed;
-  padding-top: 130px;
+  padding-top: 8.125rem;
 }
 
 .showcase .fa {

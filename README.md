@@ -117,3 +117,7 @@ Alguns retoques no CSS deixam nossa Showcase, preparada no vídeo anterior, com 
 ### Vídeo 15 - Menus Dropdown
 
 É muito fácil montar menus _dropdown_ elegantemente animados na **Navbar**, usando apenas as classes do Bootstrap, sem precisar escrever nem uma linha sequer de JavaScript.
+
+### Vídeo 16 - Novas Unidades-Padrão (REM e EM)
+
+O Bootstrap 4 adotou de forma consistente as unidades EM e REM, assunto que examinamos em detalhes neste vídeo. Introduzimos também a unidade VH (vertical-height), outra unidade do CSS moderno que melhora a responsividade das páginas e aplicativos.
