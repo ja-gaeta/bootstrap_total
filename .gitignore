@@ -1,6 +1,5 @@
 bower_components
 node_modules
 build
-img
 package-lock.json
 .DS_Store
