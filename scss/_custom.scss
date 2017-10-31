@@ -9,7 +9,6 @@ $font-color: #fff;
 $icon-size: 1.8rem;
 
 body {
-    background: $bg-customColor;
     color: $font-color;
 }
 
@@ -44,4 +43,23 @@ body {
     .btn-outline-light:hover {
         color: #666;
     }
+}
+
+.demo-cards {
+  color: $bg-customColor;
+}
+
+footer {
+  padding: 1rem;
+  background: $bg-customColor;
+  .fa {
+    font-size: $icon-size;
+    padding: 0.4rem;
+  }
+  a {
+    color: #a8b0aa;
+    &:hover {
+      color: darken(#a8b0aa, 20%);
+    }
+  }
 }

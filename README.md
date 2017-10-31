@@ -121,3 +121,7 @@ Alguns retoques no CSS deixam nossa Showcase, preparada no vídeo anterior, com 
 ### Vídeo 16 - Novas Unidades-Padrão (REM e EM)
 
 O Bootstrap 4 adotou de forma consistente as unidades EM e REM, assunto que examinamos em detalhes neste vídeo. Introduzimos também a unidade VH (vertical-height), outra unidade do CSS moderno que melhora a responsividade das páginas e aplicativos.
+
+### Vídeo 17 - Cards
+
+Neste vídeo completamos nossa _landing page_ de demonstração, aproveitando para apresentar o componente **card** do bootstrap 4.
