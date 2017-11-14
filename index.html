@@ -4,172 +4,127 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Bootstrap Total</title>
-    <link rel="stylesheet" href="css/app.css" >
-    <link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.min.css">
+    <link rel="icon" href="img/favicon.png">
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css" >
   </head>
   <body>
-    <header>
-      <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top">
-        <div class="container">
-          <a href="index.html" class="navbar-brand"><img src="img/tutoriais_em_video.svg" alt=""></a>
-          <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarContent">
-                <span class="navbar-toggler-icon"></span>
-              </button>
-          <div class="collapse navbar-collapse" id="navbarContent">
-            <ul class="navbar-nav ml-auto">
-              <li class="nav-item"><a href="#inicio" class="nav-link">Início</a></li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" 
-                   href="#" 
-                   id="navbarDropdownMenuLink" 
-                   data-toggle="dropdown" 
-                   aria-haspopup="true" 
-                   aria-expanded="false">Blog</a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                  <a class="dropdown-item" href="#">
-                    <i class="fa fa-book"></i>
-                    <span class="p-2">Artigos Técnicos</span>
-                  </a>
-                  <a class="dropdown-item" href="#">
-                    <i class="fa  fa-pencil-square-o"></i>
-                    <span class="p-2">Crônicas & Ensaios</span>
-                  </a>
-                </div>
-              </li>
-              <li class="nav-item"><a href="#" class="nav-link">Séries</a></li>
-            </ul>
-          </div>
-        </div>
-      </nav>
-    </header>
-    
-    <div class="showcase">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-8 d-none d-lg-block">
-            <h1 class="display-4 text-center">Tutoriais completos para você aprimorar sua técnica de Desenvolvimento Web.</h1>
-            <div class="d-flex flex-row">
-              <div class="p-4">
-                  <i class="fa fa-arrow-right"></i>
-              </div>
-              <div class="p-4">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti labore cumque repellat, iure soluta consequatur earum rem, sit quaerat ipsa necessitatibus suscipit nobis saepe impedit sed aspernatur modi harum culpa.</p>
-              </div>
+    <div class="container">
+      <!-- apenas desliza -->
+      <div class="carousel slide mt-5" data-ride="carousel" id="exemplo-1" >
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img class="d-block w-100" src="img/flores-1.JPG" alt="Primeiro slide">
             </div>
-            <div class="d-flex flex-row">
-                <div class="p-4">
-                    <i class="fa fa-arrow-right"></i>
-                </div>
-                <div class="p-4">
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti labore cumque repellat, iure soluta consequatur earum rem, sit quaerat ipsa necessitatibus suscipit nobis saepe impedit sed aspernatur modi harum culpa.</p>
-                </div>
-              </div>
-              <div class="d-flex flex-row">
-              <div class="p-4">
-                  <i class="fa fa-arrow-right"></i>
-              </div>
-              <div class="p-4">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti labore cumque repellat, iure soluta consequatur earum rem, sit quaerat ipsa necessitatibus suscipit nobis saepe impedit sed aspernatur modi harum culpa.</p>
-              </div>
+            <div class="carousel-item">
+              <img class="d-block w-100" src="img/flores-2.JPG" alt="Segundo slide">
+            </div>
+            <div class="carousel-item">
+              <img class="d-block w-100" src="img/flores-3.JPG" alt="Terceiro slide">
             </div>
           </div>
-          <div class="col-lg-4">
-              <div class="card bg-primary text-center card-form">
-                <div class="card-body">
-                  <h3>Acesse o conteúdo exclusivo</h3>
-                  <p>Basta registrar-se usando este formulário</p>
-                  <form>
-                    <div class="form-group">
-                      <input type="text" class="form-control form-control-lg" placeholder="Nome">
-                    </div>
-                    <div class="form-group">
-                        <input type="email" class="form-control form-control-lg" placeholder="E-mail">
-                    </div>
-                    <div class="form-group">
-                        <input type="password" class="form-control form-control-lg" placeholder="Senha">
-                    </div>
-                    <div class="form-group">
-                        <input type="password" class="form-control form-control-lg" placeholder="Confirme a senha">
-                    </div>
-                    <input type="submit" value="Enviar" class="btn btn-outline-light btn-block">
-                  </form>
-                </div>
-              </div>
-          </div>
-        </div>   
       </div>
-    </div> <!-- fim da showcase -->
-    
-    <div class="demo-cards mt-3 mb-3">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-4">
-            <div class="card" style="width: 18rem;">
-              <img class="card-img-top" src="img/html5.png" alt="html5 logo">
-              <div class="card-body">
-                <h4 class="card-title">HTML5</h4>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4">
-            <div class="card" style="width: 18rem;">
-              <img class="card-img-top" src="img/css3.jpg" alt="css3 logo">
-              <div class="card-body">
-                <h4 class="card-title">CSS3</h4>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4">
-            <div class="card" style="width: 18rem;">
-              <img class="card-img-top" src="img/js.jpg" alt="javascript logo">
-              <div class="card-body">
-                <h4 class="card-title">JavaScript</h4>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-4">
-            <img class="mt-5 ml-5" src="img/wizard.jpg" alt="wizard">
-          </div>
-          <div class="col-lg-8">
-            <h1 class="display-4 text-center mt-5">Domine este trio e adquira a maestria no <em>frontend</em>.</h1>
-          </div>
-        </div>
-      </div>
-    </div> <!-- fim da demo-cards -->
 
-    <footer>
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-lg-6">
-            <p>Copyright &copy; 2017 by Tutoriais em Vídeo</p>
+    <!-- com controles -->
+    <div class="carousel slide mt-5 mb-5" data-ride="carousel" id="exemplo-2" >
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img class="d-block w-100" src="img/flores-1.JPG" alt="Primeiro slide">
           </div>
-          <div class="col-lg-6">
-            <p class="text-right">
-              <a href="#">
-                <i class="fa fa-youtube"></i>
-              </a>
-              <a href="#">
-                <i class="fa fa-github"></i>
-              </a>
-              <a href="#">
-                <i class="fa fa-twitter"></i>
-              </a>
-              <a href="#">
-                  <i class="fa fa-facebook"></i>
-                </a>
-            </p>
+          <div class="carousel-item">
+            <img class="d-block w-100" src="img/flores-2.JPG" alt="Segundo slide">
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-100" src="img/flores-3.JPG" alt="Terceiro slide">
           </div>
         </div>
-      </div>
-    </footer> <!-- fim do footer -->
+        <a class="carousel-control-prev" href="#exemplo-2" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Prévio</span>
+        </a>
+        <a class="carousel-control-next" href="#exemplo-2" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Próximo</span>
+        </a>
+    </div>
+
+    <!-- com indicadores -->
+    <div class="carousel slide mt-5 mb-5" data-ride="carousel" id="exemplo-3">
+        <ol class="carousel-indicators">
+            <li data-target="#exemplo-3" data-slide-to="0" class="active"></li>
+            <li data-target="#exemplo-3" data-slide-to="1"></li>
+            <li data-target="#exemplo-3" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img class="d-block w-100" src="img/flores-1.JPG" alt="Primeiro slide">
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-100" src="img/flores-2.JPG" alt="Segundo slide">
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-100" src="img/flores-3.JPG" alt="Terceiro slide">
+          </div>
+        </div>
+        <a class="carousel-control-prev" href="#exemplo-3" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Prévio</span>
+        </a>
+        <a class="carousel-control-next" href="#exemplo-3" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Próximo</span>
+        </a>
+    </div>
+
+    <!-- com legendas -->
+    <div class="carousel slide mt-5 mb-5" data-ride="carousel" id="exemplo-4">
+        <ol class="carousel-indicators">
+            <li data-target="#exemplo-4" data-slide-to="0" class="active"></li>
+            <li data-target="#exemplo-4" data-slide-to="1"></li>
+            <li data-target="#exemplo-4" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img class="d-block w-100" src="img/flores-1.JPG" alt="Primeiro slide">
+            <div class="carousel-caption d-none d-md-block">
+                <h3>Legenda</h3>
+                <p>Figura 1</p>
+              </div>
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-100" src="img/flores-2.JPG" alt="Segundo slide">
+            <div class="carousel-caption d-none d-md-block">
+                <h3>Legenda</h3>
+                <p>Figura 2</p>
+              </div>
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-100" src="img/flores-3.JPG" alt="Terceiro slide">
+            <div class="carousel-caption d-none d-md-block">
+                <h3>Legenda</h3>
+                <p>Figura 3</p>
+              </div>
+          </div>
+        </div>
+        <a class="carousel-control-prev" href="#exemplo-4" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Prévio</span>
+        </a>
+        <a class="carousel-control-next" href="#exemplo-4" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Próximo</span>
+        </a>
+    </div>
+
+  </div>
 
     <script src="js/jquery.js"></script>
     <script src="js/popper.js"></script>
     <script src="js/bootstrap.js"></script>
+
+    <script>
+      $('.carousel').carousel({
+       interval: 5000
+      })
+    </script>
   </body>
 </html>

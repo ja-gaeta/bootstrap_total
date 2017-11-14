@@ -125,3 +125,7 @@ O Bootstrap 4 adotou de forma consistente as unidades EM e REM, assunto que exam
 ### Vídeo 17 - Cards
 
 Neste vídeo completamos nossa _landing page_ de demonstração, aproveitando para apresentar o componente **card** do bootstrap 4.
+
+### Vídeo 18 - Carousel
+
+O componente **carousel** é  uma apresentação rotativa de conteúdo, construído com _transforms_ 3D do CSS e JavaScript.
