@@ -129,3 +129,7 @@ Neste vídeo completamos nossa _landing page_ de demonstração, aproveitando pa
 ### Vídeo 18 - Carousel
 
 O componente **carousel** é  uma apresentação rotativa de conteúdo, construído com _transforms_ 3D do CSS e JavaScript.
+
+### Vídeo 19 - Collapse
+
+O componente “Collapse” usa o JQuery para uma interessante comutação de textos retráteis, entre eles o “Accordion” que, combinando este efeito com o componente “Card”, fica muito interessante e é bastante utilizado.
